@@ -1,0 +1,74 @@
+{
+  "10-null-null": {
+    "name": "Beginner"
+  },
+  "100--null": {
+    "name": "Knight"
+  },
+  "101-JobChange_01-null": {
+    "name": "Knight II"
+  },
+  "200--null": {
+    "name": "Berserker"
+  },
+  "201-JobChange_01-null": {
+    "name": "Berserker II"
+  },
+  "300--null": {
+    "name": "Wizard"
+  },
+  "301-JobChange_01-null": {
+    "name": "Wizard II"
+  },
+  "400--null": {
+    "name": "Priest"
+  },
+  "401-JobChange_01-null": {
+    "name": "Priest II"
+  },
+  "500--null": {
+    "name": "Archer"
+  },
+  "501-JobChange_01-null": {
+    "name": "Archer II"
+  },
+  "600--null": {
+    "name": "Heavy Gunner"
+  },
+  "601-JobChange_01-null": {
+    "name": "Heavy Gunner II"
+  },
+  "700--null": {
+    "name": "Thief"
+  },
+  "701-JobChange_01-null": {
+    "name": "Thief II"
+  },
+  "800--null": {
+    "name": "Assassin"
+  },
+  "801-JobChange_01-null": {
+    "name": "Assassin II"
+  },
+  "900--null": {
+    "name": "Runeblade"
+  },
+  "901-JobChange_01-null": {
+    "name": "Runeblade II"
+  },
+  "1000--null": {
+    "name": "Striker"
+  },
+  "1001-JobChange_01-null": {
+    "name": "Striker II"
+  },
+  "1100--null": {
+    "name": "Soul Binder"
+  },
+  "1101-JobChange_01-null": {
+    "name": "Soul Binder II"
+  },
+  "999-null-null": {
+    "name": "GM"
+  }
+}

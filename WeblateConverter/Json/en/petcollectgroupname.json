@@ -1,0 +1,44 @@
+{
+  "1-PetBattle-null": {
+    "name": "Unknown"
+  },
+  "2-PetBattle-null": {
+    "name": "Plant"
+  },
+  "3-PetBattle-null": {
+    "name": "Beast"
+  },
+  "4-PetBattle-null": {
+    "name": "Insect"
+  },
+  "5-PetBattle-null": {
+    "name": "Divine"
+  },
+  "6-PetBattle-null": {
+    "name": "Spirit"
+  },
+  "7-PetBattle-null": {
+    "name": "Fairfolk"
+  },
+  "8-PetBattle-null": {
+    "name": "Humanoid"
+  },
+  "9-PetBattle-null": {
+    "name": "Undead"
+  },
+  "10-PetBattle-null": {
+    "name": "Devil"
+  },
+  "11-PetBattle-null": {
+    "name": "Machine"
+  },
+  "12-PetBattle-null": {
+    "name": "Inanimate"
+  },
+  "100-PetBattle-null": {
+    "name": "Special"
+  },
+  "900-PetBattle-null": {
+    "name": "Other"
+  }
+}

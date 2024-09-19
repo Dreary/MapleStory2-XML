@@ -1,0 +1,32 @@
+{
+  "6000-GuildQuest01-null": {
+    "name": "Have a good day!",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6001-GuildQuest01-null": {
+    "name": "Have a good day!",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6002-GuildQuest01-null": {
+    "name": "Have an exciting week!",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6003-GuildQuest01-null": {
+    "name": "Have a great week!",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6004-ChronicleDungeon60_01-null": {
+    "name": "A Vigorous Week",
+    "isTutorial": "",
+    "regionID": ""
+  },
+  "6005-ChronicleDungeon60_01-null": {
+    "name": "An Active Week",
+    "isTutorial": "",
+    "regionID": ""
+  }
+}
